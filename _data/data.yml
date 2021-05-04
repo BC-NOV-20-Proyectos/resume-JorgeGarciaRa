@@ -15,8 +15,8 @@ sidebar:
   email: jorgeramirezgarciaa@gmail.com
   phone: 9512187478
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: ramirez-jorge
+  github: JorgeGarciaRa
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -32,14 +32,9 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
-      link: # dejar en blanco
-
+   
     - item: Team Work
       link: # dejar en blanco
 
