@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: MCER B1 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -67,6 +67,14 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+
+  - role: Author 
+    time: 2020 Oct 
+    company: Mexican International Conference on Artificial Intelligence, Computer Research Center (CIC-IPN)
+    details: |
+        - Ramírez-García J., Ibarra-Orozco R.E., Argüelles Cruz A.J. (2020) Tweets Monitoring for Real-Time Emergency Events Detection in Smart Campus. In: Martínez-Villaseñor L., Herrera-Alcántara O., Ponce H., Castro-Espinoza F.A. (eds) Advances in Computational Intelligence. MICAI 2020. Lecture Notes in Computer Science, vol 12469. Springer, Cham. https://doi.org/10.1007/978-3-030-60887-3_18
+
+
   - role: Professional Resident
     time: 2020 Feb - 2020 Jul
     company: Computer Research Center (CIC-IPN)
@@ -98,7 +106,7 @@ skills:
 
   toolset:
     - name: HTML
-      level: 20%
+      level: 60%
 
     - name: JavaScript
       level: 40%
@@ -107,16 +115,16 @@ skills:
       level: 60%
 
     - name: Python
-      level: 80%
+      level: 40%
 
     - name: MySQL
-      level: 100%
+      level: 60%
 
     - name: React-Native 
       level: 40%
       
     - name: Java
-      level: 40%
+      level: 60%
       
     - name: Git
       level: 40%
